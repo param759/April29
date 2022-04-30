@@ -25,4 +25,10 @@ public WebDriver driver;
 	{
 		System.out.println("driver not done");
 	}
+	
+	@Test
+	public void goal4()
+	{
+		System.out.println("home work");
+	}
 }
