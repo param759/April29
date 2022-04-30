@@ -19,4 +19,10 @@ public WebDriver driver;
 		 driver=new ChromeDriver();	
 		 driver.get("https://www.salesforce.com/ca/?ir=1");
 	}
+	
+	@Test
+	public void goal3()
+	{
+		System.out.println("driver not done");
+	}
 }
